@@ -1,0 +1,2 @@
+# ChoresWebsite
+Hello! My name is Carter Hagans.  This is the code for my Chores Website. On my website, you will be able to create a "group" or a "family", assign roles to  members in your family, add administrators, add children. You will be able to assign chores to people and when they mark the chore is done, they must submit a picture with the mark of completion. An administrator can then give feedback / deny / approve / postpone the completion of request. More details coming soon.
